@@ -28,12 +28,6 @@ It will show a box, which is the user interface screen
 To proceed futher that how to use the game Press "Help" button
 ................
 
-Credits:
-Aayush Singh     (41421001)
-Amit Singh       (41421011)
-Divyanshu Prasad (41421023)
-................
-
 Reference:
 Kashipara.google.com
 askpython.google.com
